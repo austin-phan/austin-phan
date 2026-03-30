@@ -23,11 +23,3 @@ You can probably find smaller personal projects being developed here at any give
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
-
----
-
-### Stats
-
-![Austin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=austin-phan&show_icons=true&hide_border=true&theme=default&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-phan&layout=compact&hide_border=true&theme=default&langs_count=6)
